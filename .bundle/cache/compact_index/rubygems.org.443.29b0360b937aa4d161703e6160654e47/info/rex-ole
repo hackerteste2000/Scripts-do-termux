@@ -1,0 +1,8 @@
+---
+0.1.0 rex-text:>= 0|checksum:7d89c42fead8a6a40ae996ae28f891c0df2f558804ae074e0f73d8130ca8d79e
+0.1.1 rex-text:>= 0|checksum:90c5fbdfcd28906b641c16fbfa9a27a4d8c7eaab73b24095f79646e105ec5a51
+0.1.2 rex-text:>= 0|checksum:f8517fb9d6c252ac85f0076d3b654df4e50330f87142fde960f7663f44ce80b1
+0.1.3 rex-text:>= 0|checksum:7d24fcdb4877d0c5184ebdbf39f09491112ddcee9d8b02bb456a70e4891c6c9b
+0.1.4 rex-text:>= 0|checksum:07bc293d1f26d39d7a8588fc06929c5a87494ca455cb0081f3915ab5ca2bc854
+0.1.5 rex-text:>= 0|checksum:c038770883fc509064f320ba3b58987624390fd698cd71423a056d34ee9dd67a
+0.1.6 rex-text:>= 0|checksum:9c5f592e8797c27c465298ff679accfdc1eec6fcda67f001db40af6d1d5edfde,ruby:>= 2.2.0

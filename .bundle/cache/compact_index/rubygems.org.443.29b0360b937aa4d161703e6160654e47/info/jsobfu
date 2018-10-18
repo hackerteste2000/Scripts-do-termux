@@ -1,0 +1,16 @@
+---
+0.1.0 rkelly-remix:~> 0.0.6|checksum:6cc491cb1098f9c49e5e3e755a3b5c5a34a87f0249a289a2ee6056c6ad2fd24b
+0.1.1 rkelly-remix:~> 0.0.6|checksum:e45ff5462c4260d9fd91de5b5390ac85005d67440f752591fe3943549907b48e
+0.1.2 rkelly-remix:~> 0.0.6|checksum:11fe19b04fcb5b382c296d1ad48adaaf828b904d1c70b36a4decaa71bec93a84
+0.1.3 rkelly-remix:~> 0.0.6|checksum:a31f54fab6a57db2254a681cdb8dc1387a839b90fd941f6cd3febc04b8a2f3e5
+0.1.4 rkelly-remix:~> 0.0.6|checksum:8c29736f629176aad2308c67391f1ff0b5f000644d9f9d7940df7582564bb35e
+0.1.5 rkelly-remix:= 0.0.6|checksum:c331dc010d7018ef97e629324c9d0ef333a1665c103f7c3b324d258b8752118f
+0.1.6 rkelly-remix:= 0.0.6|checksum:0bdd6a4dd628b6d072648f07c8586f9dd12ff56740378aa562a4bc9075d79fc3
+0.1.7 rkelly-remix:= 0.0.6|checksum:ac78c37b581cde2ee8d466bc0a1b633d148a8b42919ba97669a8ec93f7aa7e23
+0.1.8 rkelly-remix:= 0.0.6|checksum:84a7ee17626f82b714078f71cb2231a7aea928bbe71b678916b856d4ecf4e365
+0.1.9 rkelly-remix:= 0.0.6|checksum:d477338dbaf24c4cea69fea7eb96b1d74fe30770e1bdfbfd5ff9f74c7dd09904
+0.2.0 rkelly-remix:= 0.0.6|checksum:9a3bff97e995a6c70d0428409c9b5fd05ba14dc675b53dda8f1c4166363b8bf3
+0.2.1 rkelly-remix:= 0.0.6|checksum:16fef3066b9049bbcdb9949f6d185af75eda768ff2e221b69c16e9d793ac23e5
+0.3.0 rkelly-remix:= 0.0.6|checksum:a0c02d68cdaa7bbca2773e1cd2c8861da6b07655bbea3eb806f8c3b26dc4f1cb
+0.4.1 rkelly-remix:= 0.0.6|checksum:6d9af81d111826a7dfc23e284a1bd1f1f4c0fb083e395402c3b2f30e7d6e4a62
+0.4.2 rkelly-remix:>= 0|checksum:d3cfd593d58a4ad19d0ba2892e6aaf110cb3e03b797d51df7b403a9690b690c1,ruby:>= 2.0.0

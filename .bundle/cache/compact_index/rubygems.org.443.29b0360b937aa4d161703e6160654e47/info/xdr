@@ -1,0 +1,9 @@
+---
+0.0.1 activemodel:~> 4,activesupport:~> 4,backports:~> 3.6|checksum:fe5e91dc277ecad70b2c7c01a2c9850d8ec74159bc8ef350f1b04510fd3dbd3e
+0.0.2 activemodel:~> 4,activesupport:~> 4,backports:~> 3.6|checksum:a64128a033a7f37cc9b1c7440f335b5efa8ed70a6ad88f920ef2a4801fa8ea28
+0.0.3 activemodel:~> 4,activesupport:~> 4,backports:~> 3.6|checksum:69fa03ec310c83db2826c7d849b4294134ca89ff8718cf7ca24d859390427930
+0.0.4 activemodel:~> 4,activesupport:~> 4,backports:~> 3.6|checksum:d4090c8e7d0a2126085635988d7689a2670bf1aeef865e843753e2e1e6cc6f99
+0.1.0 activemodel:~> 4,activesupport:~> 4,backports:~> 3.6|checksum:9e6ec3ec295a98d789f8e400d0d8588382c0c53832f7993e41fe77e09ce4e70a
+1.0.0 activemodel:~> 4,activesupport:~> 4,backports:~> 3.6|checksum:ea82fd6ad13a6e81753f61b413a565b2b12600dac7ba4bf6a3122c60676ac1c7
+2.0.0 activemodel:>= 4.2.7,activesupport:>= 4.2.7|checksum:d5a43e9effa071d49bde1caee351f0bc985576370e2c6770c07dc84866b8ac30,ruby:>= 2.2.0
+3.0.0 activemodel:>= 5.2.0,activesupport:>= 5.2.0|checksum:79c702f942508b21811a963097fecd4a19090f919948ea08167b6ee866f20149,ruby:>= 2.2.0

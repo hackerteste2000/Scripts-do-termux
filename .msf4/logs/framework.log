@@ -1,0 +1,146 @@
+[10/17/2018 13:58:28] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/wmiexec.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/wmiexec.py", line 103
+    except (Exception, KeyboardInterrupt), e:
+                                         ^
+SyntaxError: invalid syntax
+
+[10/17/2018 13:58:28] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/secretsdump.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/secretsdump.py", line 145
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+[10/17/2018 13:58:28] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/dcomexec.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/dcomexec.py", line 176
+    except  (Exception, KeyboardInterrupt), e:
+                                          ^
+SyntaxError: invalid syntax
+
+[10/17/2018 14:28:47] [i(0)] core: Trying to continue despite failed database creation: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+[10/17/2018 14:28:47] [e(0)] core: DB.connect threw an exception: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+[10/17/2018 14:30:01] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/wmiexec.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/wmiexec.py", line 103
+    except (Exception, KeyboardInterrupt), e:
+                                         ^
+SyntaxError: invalid syntax
+
+[10/17/2018 14:30:01] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/secretsdump.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/secretsdump.py", line 145
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+[10/17/2018 14:30:01] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/dcomexec.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/dcomexec.py", line 176
+    except  (Exception, KeyboardInterrupt), e:
+                                          ^
+SyntaxError: invalid syntax
+
+[10/17/2018 14:59:12] [e(0)] core: ArgumentError : Invalid Payload Selected
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/core/payload_generator.rb:129:in `initialize'
+/data/data/com.termux/files/usr/bin/msfvenom:386:in `new'
+/data/data/com.termux/files/usr/bin/msfvenom:386:in `<main>'
+[10/17/2018 15:04:49] [i(0)] core: Trying to continue despite failed database creation: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+[10/17/2018 15:04:49] [e(0)] core: DB.connect threw an exception: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+[10/17/2018 15:06:06] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/wmiexec.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/wmiexec.py", line 103
+    except (Exception, KeyboardInterrupt), e:
+                                         ^
+SyntaxError: invalid syntax
+
+[10/17/2018 15:06:06] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/secretsdump.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/secretsdump.py", line 145
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+[10/17/2018 15:06:06] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/dcomexec.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/dcomexec.py", line 176
+    except  (Exception, KeyboardInterrupt), e:
+                                          ^
+SyntaxError: invalid syntax
+
+[10/17/2018 15:41:40] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[10/17/2018 21:45:47] [i(0)] core: Trying to continue despite failed database creation: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+[10/17/2018 21:45:47] [e(0)] core: DB.connect threw an exception: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+[10/17/2018 21:46:52] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/wmiexec.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/wmiexec.py", line 103
+    except (Exception, KeyboardInterrupt), e:
+                                         ^
+SyntaxError: invalid syntax
+
+[10/17/2018 21:46:52] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/secretsdump.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/secretsdump.py", line 145
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+[10/17/2018 21:46:53] [e(0)] core: Unexpected output running /data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/dcomexec.py:
+  File "/data/data/com.termux/files/home/metasploit-framework/modules/auxiliary/scanner/smb/impacket/dcomexec.py", line 176
+    except  (Exception, KeyboardInterrupt), e:
+                                          ^
+SyntaxError: invalid syntax
+
+[10/17/2018 22:09:19] [w(0)] core: Session 1 has died
+[10/17/2018 22:09:37] [e(0)] core: Session with no session_host/target_host/tunnel_peer
+[10/17/2018 22:09:38] [w(0)] core: Session 2 has died
+[10/17/2018 22:09:38] [e(0)] core: Session with no session_host/target_host/tunnel_peer
+[10/17/2018 22:09:38] [w(0)] core: Session 3 has died
+[10/17/2018 22:09:39] [w(0)] core: Exception in scheduler thread Rex::TimeoutError Operation timed out.
+[10/17/2018 22:09:39] [w(0)] core: Exception in scheduler thread Rex::TimeoutError Operation timed out.
+[10/17/2018 22:09:43] [w(0)] core: Session 4 has died
+[10/17/2018 22:09:44] [w(0)] core: Session 5 has died
+[10/17/2018 22:09:46] [w(0)] core: Session 6 has died
+[10/17/2018 22:09:46] [w(0)] core: Exception in scheduler thread Rex::TimeoutError Operation timed out.
+[10/17/2018 22:09:49] [w(0)] core: Exception in scheduler thread Rex::TimeoutError Operation timed out.
+[10/17/2018 22:10:19] [e(0)] core: Error loading sysinfo: Timeout::Error: execution expired
+[10/17/2018 22:10:19] [d(0)] core: Call stack:
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/packet_response_waiter.rb:95:in `sleep'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/packet_response_waiter.rb:95:in `wait'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/packet_response_waiter.rb:95:in `block in wait'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/packet_response_waiter.rb:93:in `synchronize'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/packet_response_waiter.rb:93:in `wait'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/packet_dispatcher.rb:262:in `send_packet_wait_response'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/packet_dispatcher.rb:220:in `send_request'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/sys/config.rb:34:in `getuid'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:425:in `update_session_info'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:474:in `block in load_session_info'
+/data/data/com.termux/files/usr/lib/ruby/2.5.0/timeout.rb:108:in `timeout'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:473:in `load_session_info'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:160:in `block in bootstrap'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/core/session_manager.rb:171:in `block (2 levels) in initialize_scheduler_threads'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[10/17/2018 22:10:19] [e(0)] meterpreter: Failed to load extension: No response was received to the core_enumextcmd request.
+[10/17/2018 22:10:19] [d(0)] meterpreter: Call stack:
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/client_core.rb:339:in `use'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/core.rb:1209:in `block in cmd_load'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/core.rb:1188:in `each'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/core.rb:1188:in `cmd_load'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:546:in `run_command'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:105:in `run_command'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:508:in `block in run_single'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:502:in `each'
+/data/data/com.termux/files/home/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:502:in `run_single'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/base/sessions/meterpreter_android.rb:26:in `load_android'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:173:in `block in bootstrap'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/core/session_manager.rb:171:in `block (2 levels) in initialize_scheduler_threads'
+/data/data/com.termux/files/home/metasploit-framework/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[10/17/2018 22:14:41] [w(0)] core: Exception in scheduler thread Rex::TimeoutError Operation timed out.

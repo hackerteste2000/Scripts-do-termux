@@ -1,0 +1,72 @@
+---
+0.6 activerecord-jdbc-adapter:>= 0.6,jdbc-postgres:>= 8.2|checksum:07c43c5da2db1899cbec9be69dd3898379cac01fb12ccc9fa712bdd29a0209c6
+0.7 activerecord-jdbc-adapter:>= 0.7,jdbc-postgres:>= 8.2|checksum:6243d3581940ece393bf57160ab9b22427ee9fe8f771ce2649b445ea7d103c80
+0.7.1 activerecord-jdbc-adapter:>= 0.7.1,jdbc-postgres:>= 8.2|checksum:4f4f93e171c624e429e6336d4e20f96baf6a5552ea3ea8986097cad7fd6e3869
+0.7.2 activerecord-jdbc-adapter:>= 0.7.2,jdbc-postgres:>= 8.2|checksum:202af9bb4da3601ca0ba1417cff2fb2db9174d43c5893650b248d579273965e5
+0.8 activerecord-jdbc-adapter:>= 0.8,jdbc-postgres:>= 8.2|checksum:84816f886615c9f32904240625b961a803b71a88e032e9649ff88aa8fe9a1355
+0.8.1 activerecord-jdbc-adapter:>= 0.8.1,jdbc-postgres:>= 8.2|checksum:e1b180e5011e2efc26752e3cb1b4dea368ee05a3fae5400b82f7a756b8cf3152
+0.8.2 activerecord-jdbc-adapter:>= 0.8.2,jdbc-postgres:>= 8.2|checksum:7418dded5e9e89731b3694a9151437b8d85482c4b67f5872e9229294a76b8a2c
+0.9 activerecord-jdbc-adapter:= 0.9,jdbc-postgres:>= 8.2|checksum:7015cac7760dfeaae3934b38095ac840ee12be4999133d54db28a61837434dc8
+0.9.1 activerecord-jdbc-adapter:= 0.9.1,jdbc-postgres:>= 8.2|checksum:26a871afe91c7a9b37d9e352013c3c12dfd84287344caaf1dd547527e5e67ae7
+0.9.2 activerecord-jdbc-adapter:= 0.9.2,jdbc-postgres:>= 8.3.604|checksum:bb40a8e8f73a18b1573d345db9f837e962ce7457e3b333ffc1e35c3e51378ddf
+0.9.0.1 activerecord-jdbc-adapter:= 0.9.0.1,jdbc-postgres:>= 8.2|checksum:52f2fb594623751473f88c37ea40611107ee3f531d49fdb1394215e41968b5d3
+0.9.3-java activerecord-jdbc-adapter:= 0.9.3,jdbc-postgres:>= 8.3.604|checksum:31d8eab52fafaae1396a5edd97da13af3dc09ee45f0d474978fdb254b703ffe0
+0.9.4-java activerecord-jdbc-adapter:= 0.9.4,jdbc-postgres:>= 8.3.604|checksum:e8d0e417c3016d30c60c71f784f88a0bdcf81cabf5d26f47d72f72234375aa3f
+0.9.5-java activerecord-jdbc-adapter:= 0.9.5,jdbc-postgres:>= 8.4.701|checksum:81eacc36f647ed5a2f4506cc6012fdf904dd867650aaff4093bd5c9f5f822ae3
+0.9.6-java activerecord-jdbc-adapter:= 0.9.6,jdbc-postgres:>= 8.4.701|checksum:dc8200130d33953b6108d5e4f6a3549d162fa1739fd8663bc2a0e3c6fb443ba6
+0.9.7-java activerecord-jdbc-adapter:= 0.9.7,jdbc-postgres:>= 8.4.701|checksum:2fd2c8215832316020346729bb69946ba54241d01d234ac959d18800ecad1b9c
+1.0.0.beta1-java activerecord-jdbc-adapter:= 1.0.0.beta1,jdbc-postgres:>= 8.4.701|checksum:e7551e462e02593db68d551a2eecb321d97021fc71363e30b97c9fd7281abaab,rubygems:> 1.3.1
+1.0.0.beta2-java activerecord-jdbc-adapter:= 1.0.0.beta2,jdbc-postgres:>= 8.4.702|checksum:baa8d48176c5031420a9b93bc27638f706c49f2fde75427aade3abb007c905e4,rubygems:> 1.3.1
+1.0.0-java activerecord-jdbc-adapter:= 1.0.0,jdbc-postgres:>= 8.4.702|checksum:b05e6d91d40912fc18735d789980cd474bedd33494ed2fd7e6b56ca981b066d3
+1.0.1-java activerecord-jdbc-adapter:= 1.0.1,jdbc-postgres:>= 8.4.702|checksum:64c7e5676d6dddef6d1501d2759034de0679588c752c76b3c8a89958657a1d0d
+1.0.2-java activerecord-jdbc-adapter:= 1.0.2,jdbc-postgres:~> 8.4.0|checksum:05ddc22e4795009dd2162c99ff20d989d87f7cfa44b0311da0af6cb736c95e4a
+1.0.3-java activerecord-jdbc-adapter:= 1.0.3,jdbc-postgres:~> 8.4.0|checksum:41616343e76b01c7d87d3bf72dd852ecdbbf40772fbae9b3a0742db645b85b5a
+1.1.0 activerecord-jdbc-adapter:= 1.1.0,jdbc-postgres:~> 8.4.0|checksum:4b675992a649545d8230a5083f98a4cdf2120af93892404d849f819016a66956
+1.1.1 activerecord-jdbc-adapter:= 1.1.1,jdbc-postgres:~> 9.0.0|checksum:b7860c181b2387ca8e97cdb616b94082263ee57568361151aae1419f81916ecc
+1.1.2 activerecord-jdbc-adapter:= 1.1.2,jdbc-postgres:~> 9.0.0|checksum:d5f8c5f814b3aa67729da7ebbe42fa6673b5c28cea9d3da10150a079fc4747a2
+1.1.3 activerecord-jdbc-adapter:= 1.1.3,jdbc-postgres:~> 9.0.0|checksum:83d17a9b02816e8ed1373b730ea31795d3620e68eba3b0be33512c62ffdd44e9
+1.2.0 activerecord-jdbc-adapter:~> 1.2.0,jdbc-postgres:~> 9.0.0|checksum:5f830d91b8bcc127e778d36ec4b91edf46df2e870165b26dd542c592ead189e3
+1.2.1 activerecord-jdbc-adapter:~> 1.2.1,jdbc-postgres:~> 9.0.0|checksum:3d6ed0c962bea56bfae28c955e82675a1dd1cf8c88df7434e70c82ec8287a0bd
+1.2.2 activerecord-jdbc-adapter:~> 1.2.2,jdbc-postgres:< 9.2&>= 9.0|checksum:94e73c3a3546105819213bca98ccca5af7a442a451e218485a94f746c7bedd2d
+1.2.2.1 activerecord-jdbc-adapter:~> 1.2.2.1,jdbc-postgres:< 9.2&>= 9.0|checksum:d06858e1a6685cfa26a2a179873ca0ebb6cc8f90a0baff0f2eef418f2c6791d1
+1.2.5 activerecord-jdbc-adapter:~> 1.2.5,jdbc-postgres:< 9.3&>= 9.1|checksum:d9c4b2721271432be6cdce8b7fb968eeb66688f79ebe57b61a9c672b19ddfa6f
+1.2.6 activerecord-jdbc-adapter:~> 1.2.6,jdbc-postgres:< 9.3&>= 9.1|checksum:89c37d9e267c8e847f98f39ce8b2746da1be04b6698baaf154de6cf109049287
+1.2.7 activerecord-jdbc-adapter:~> 1.2.7,jdbc-postgres:< 9.3&>= 9.1|checksum:1b4b2ba49cf77fd554988bd032767c359cfe9753b86f9b2c4d423497dfe84792
+1.2.9 activerecord-jdbc-adapter:~> 1.2.9,jdbc-postgres:< 9.3&>= 9.1|checksum:c1c2cf635a71f1189ee58157760c09dc4ec6e670697d86ff827cb20a7cd98929
+1.3.0.beta1 activerecord-jdbc-adapter:~> 1.3.0.beta1,jdbc-postgres:< 9.3&>= 9.1|checksum:b643e0b6e4fbaec08e8d0de3e8b612f0bd9ca6edd68813bab18a2cfe116c4b5f,rubygems:> 1.3.1
+1.3.0.beta2 activerecord-jdbc-adapter:~> 1.3.0.beta2,jdbc-postgres:< 9.3&>= 9.1|checksum:92567510e83804695176d9e30b85890da3fe74fa22243ccfec3342c0dfbd92c1,rubygems:> 1.3.1
+1.3.0.rc1 activerecord-jdbc-adapter:~> 1.3.0.rc1,jdbc-postgres:< 9.3&>= 9.1|checksum:00ddc46adfb73557513e9158b5a682a711fce7b604cc7a6a98dceaf401f0b54c,rubygems:> 1.3.1
+1.3.0 activerecord-jdbc-adapter:~> 1.3.0,jdbc-postgres:< 9.3&>= 9.1|checksum:7db2f0308800f54a3c5b455d61693290469b07833a928321265374f64583a978
+1.3.1 activerecord-jdbc-adapter:~> 1.3.1,jdbc-postgres:>= 9.1|checksum:cf6f0ff3887fdbd5612303840177bce8615e91ad0c0880ad89fb4535ae567f1e
+1.3.2 activerecord-jdbc-adapter:~> 1.3.2,jdbc-postgres:>= 9.1|checksum:f337876b517eafe4ad39cc038ec9de733b63a352a56a9a24b0cbac1314a546db
+1.3.3 activerecord-jdbc-adapter:~> 1.3.3,jdbc-postgres:>= 9.1|checksum:fa29dbfd54ba2dc8ee94816118a28d1e08cfa266faf751d5147b987c78c322a8
+1.3.4 activerecord-jdbc-adapter:~> 1.3.4,jdbc-postgres:>= 9.1|checksum:f4e4ee802dd7cf16507680aaaa42020cf77a8fc4675b82f0703cdd0d1cb1d3b2
+1.3.5 activerecord-jdbc-adapter:~> 1.3.5,jdbc-postgres:>= 9.1|checksum:f19767ca973eb6144ec6f86b62023072b4929779176b83896df2cbc79ee947f8
+1.3.6 activerecord-jdbc-adapter:~> 1.3.6,jdbc-postgres:>= 9.1|checksum:c6466ade2a191dcbbf21ede0d4a238d43595c41440f88158a766c5fd2b9879db
+1.3.7 activerecord-jdbc-adapter:~> 1.3.7,jdbc-postgres:>= 9.1|checksum:0e84c9752390af3a3f1b51314cb0338116e621393217ac8f20945f183eda0da5
+1.3.8 activerecord-jdbc-adapter:~> 1.3.8,jdbc-postgres:>= 9.1|checksum:9ac53fc19f382e78ba9a7673fa6cc03daaa90cdf01bf3f0aa4ffc0c72eb7de38
+1.3.9 activerecord-jdbc-adapter:~> 1.3.9,jdbc-postgres:>= 9.1|checksum:0f85177e688f46a95e79b60aac224569919885a7d94c3cc69f11596fa125f3e2
+1.3.10 activerecord-jdbc-adapter:~> 1.3.10,jdbc-postgres:>= 9.1|checksum:b2bde47d7de2cb4bf79c9aff62a76e5d9ebd089c8e1d1027f2db23fe2d923559
+1.3.11 activerecord-jdbc-adapter:~> 1.3.11,jdbc-postgres:>= 9.1|checksum:7716c431f21d169377875c691a0233dd49b888e685e71656381b0df8c603a9fc
+1.3.12 activerecord-jdbc-adapter:~> 1.3.12,jdbc-postgres:>= 9.1|checksum:0e987de9b283cff725fb324e38e87da80dac985d8ee9c4d5c1d47c228259fea4
+1.3.13 activerecord-jdbc-adapter:~> 1.3.13,jdbc-postgres:>= 9.1|checksum:deb68b4347fbb7da09aadef5e9bd74775eb4c098d0f4a5f6a6a3baa829625383
+1.3.14 activerecord-jdbc-adapter:~> 1.3.14,jdbc-postgres:>= 9.1|checksum:cea7f0e94e57cb2a47f79e8a8e76247d8b47c77234295e7b79581c9a17f7ff08
+1.3.15 activerecord-jdbc-adapter:~> 1.3.15,jdbc-postgres:>= 9.1|checksum:5d1552d8e456ff3451aa011ec953ba159047df162c22cc9d6800927cb79209bd
+1.3.16 activerecord-jdbc-adapter:~> 1.3.16,jdbc-postgres:>= 9.1|checksum:dd0955d59254d76db16729707d917633f8d891bf9a3a6060b93018c45cd85680
+1.3.17 activerecord-jdbc-adapter:~> 1.3.17,jdbc-postgres:>= 9.1|checksum:004e638f9bd838640e8d35032fd9c3d8a4dced57f47902a0bad11d68e0121ff1
+1.3.18 activerecord-jdbc-adapter:~> 1.3.18,jdbc-postgres:>= 9.1|checksum:e17a7a7beeb98922eb42180cc2b631c9fe8e979b40727178a3226376bb17d748
+1.3.19 activerecord-jdbc-adapter:~> 1.3.19,jdbc-postgres:>= 9.1|checksum:b28e68086d2ee758151c7fce98d0b5cc082bef984b7cdcfebee6f384efedb22d
+1.3.20 activerecord-jdbc-adapter:~> 1.3.20,jdbc-postgres:>= 9.1|checksum:7db7aa744c00b6e4cd70f582e6271af925c6fa8f45b0809feccabbc5c0993b1d
+1.3.21 activerecord-jdbc-adapter:~> 1.3.21,jdbc-postgres:>= 9.1|checksum:504c9470b37a068e646e13173800ca431e760886c6ddb40e224c757c784a5cee
+5.0.pre1 activerecord-jdbc-adapter:~> 5.0.pre1,jdbc-postgres:>= 9.1|checksum:22d2853bfe6a264678c93eb561210eb08fcdef41516b754af4ad7a64f07b1fd5,rubygems:> 1.3.1
+1.3.22 activerecord-jdbc-adapter:~> 1.3.22,jdbc-postgres:>= 9.1|checksum:4d7e1c01d3d1cef2df51ee86d13aa0cb988f7e5937b04b0f1d8edfa7b0d0ac0a
+1.3.23 activerecord-jdbc-adapter:~> 1.3.23,jdbc-postgres:>= 9.1|checksum:2044702ef65171c981fb9dd6afdba44682f875947e4f88f835f4885c5eb297cf
+1.3.24 activerecord-jdbc-adapter:~> 1.3.24,jdbc-postgres:<= 9.4.1206&~> 9.1|checksum:b36333bd5df912d93ff224ce9982768accb76df7d3132842b2c82d82b424d5a3
+50.0 activerecord-jdbc-adapter:~> 50.0,jdbc-postgres:< 43&>= 9.4|checksum:14eb56a7234288555fabb430bbfb1e2b242f25dcc7b08708d1b69391d7803df8
+50.1-java activerecord-jdbc-adapter:= 50.1,jdbc-postgres:< 43&>= 9.4|checksum:de085159a08c743888626c4faaae48d98f6b41f54802250a04c23bffbd903408
+51.1-java activerecord-jdbc-adapter:= 51.1,jdbc-postgres:< 43&>= 9.4|checksum:f11904b68b892b7e1531562ef994704c67d7b28149794c3909da7494f4d5fcc1
+52.0-java activerecord-jdbc-adapter:= 52.0,jdbc-postgres:< 43&>= 9.4|checksum:07baf1615b27a2434104515f95e9bc7d43d751d9b85cbf55c1e9283fc9d87ff1
+1.3.25 activerecord-jdbc-adapter:~> 1.3.25,jdbc-postgres:<= 9.4.1206&~> 9.1|checksum:3dbfb5d5a2edf32ea395358a87e2556b7594e0af2b17855a96f5ce63da5f20e2
+50.2-java activerecord-jdbc-adapter:= 50.2,jdbc-postgres:< 43&>= 9.4|checksum:621bb02b211ddbb329c135907c9c2595ce3a314161aebe61c073ec8d20259cfc
+51.2-java activerecord-jdbc-adapter:= 51.2,jdbc-postgres:< 43&>= 9.4|checksum:6b35aafc3faf832a117c509fbc4abe7e61660c05f5866ac658e1ae1a88818aab
+52.1-java activerecord-jdbc-adapter:= 52.1,jdbc-postgres:< 43&>= 9.4|checksum:786ee8c55b2af477d3a9b8b41318dc39c11b67f0a479374970c827878ffc62b1

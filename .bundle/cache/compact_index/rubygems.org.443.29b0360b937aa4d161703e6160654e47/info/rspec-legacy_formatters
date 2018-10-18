@@ -1,0 +1,4 @@
+---
+1.0.0.rc1 rspec-core:>= 3.0.0.beta2,rspec-support:>= 3.0.0.beta2|checksum:82cb6d672ea83120e3408abc41313c83959e1766ca858a68ed0560eca8741048,ruby:>= 1.8.7,rubygems:> 1.3.1
+1.0.0 rspec-core:>= 3.0.0.beta2,rspec-support:>= 3.0.0.beta2|checksum:6c4f6acc9b06df6f14b5673bb4db5aeec51ec4b33232351ace1d5cc3297cd651,ruby:>= 1.8.7
+1.0.1 rspec:~> 3.0|checksum:6adbd34ae32914520e3b441cbec94582094939ae9d0f118e84dbd90a1dc54965,ruby:>= 1.8.7

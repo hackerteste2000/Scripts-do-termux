@@ -1,0 +1,81 @@
+---
+0.1.0 rex-random_identifier:>= 0,rex-text:>= 0|checksum:6d19412a2a2d6593c6da6c4e931d28d4724e079e9d4c61490fa50d073ff63669
+0.1.1 rex-random_identifier:>= 0,rex-text:>= 0|checksum:ebaa8c7a8d46417e928db290f4eae41f0126aa58dd588e368621b9a8dab1bb69
+0.1.2 rex-random_identifier:>= 0,rex-text:>= 0|checksum:3d99d3c59c40331ef865cf90fdb9a91e70b8310acfb5e8618ac73b88feff871e
+0.1.3 rex-random_identifier:>= 0,rex-text:>= 0|checksum:a4739bda6a68767fb4bdb3b4a40a0c6a1c3d8cc15af820b3a07598248941e52d
+0.1.4 rex-random_identifier:>= 0,rex-text:>= 0|checksum:7bbd914ae114f8ad8f1deaca128629116f02d2545eea001f5c2689544b96d011
+0.1.5 rex-random_identifier:>= 0,rex-text:>= 0|checksum:bd000c44c1ae46fd2f57c040337949c94a51265475bcd943c10219cdead96c22
+0.1.6 rex-random_identifier:>= 0,rex-text:>= 0|checksum:b9fce918a9b234b2cf0802ad2b37f79fb4f65e7bc079afb8153a37338bcfc8c1
+0.1.7 rex-random_identifier:>= 0,rex-text:>= 0|checksum:4f5daedb8564cefbc0021465e7bd145736c19f0ece99f1c9a3969c79559c6477
+0.1.8 rex-random_identifier:>= 0,rex-text:>= 0|checksum:56a72673af73fae2eb16a7dfef26a87fb6b1a0567b54202ffdb8518646ef0582
+0.1.9 rex-random_identifier:>= 0,rex-text:>= 0|checksum:56eca96f360c79be38c19da9c512bd6d5ad59edc5c7d1bcfad674e65ad7cc385
+0.1.10 rex-random_identifier:>= 0,rex-text:>= 0|checksum:c7495e22e0420a4b3cfd732c21179f5bf1982c69136acbb5ee1a47ebe7276c70
+0.1.11 rex-random_identifier:>= 0,rex-text:>= 0|checksum:a91a4f30fb86606f73b825a351c9147474592cb3c53443a356bbeeaf8cc816c8
+0.1.12 rex-random_identifier:>= 0,rex-text:>= 0|checksum:2df12bbf109cebaa8494b72255dbc7375f827cf8461e3efbcf09878726de75ed
+0.1.13 rex-random_identifier:>= 0,rex-text:>= 0|checksum:fe51bf5545fec13d0ed6dac4e29cf36e9d9b2f44d97f69add36ce68a53e488d2
+0.1.14 rex-random_identifier:>= 0,rex-text:>= 0|checksum:5ab24558f9eb8388cb506ba6dd84278db5e617ed46d18c515850b53c9c8e7e9b
+0.1.15 rex-random_identifier:>= 0,rex-text:>= 0|checksum:57803ebc822856a54f85ccac9f176cb4d78870e009bee7ec87b1bf37e6597f88
+0.1.16 rex-random_identifier:>= 0,rex-text:>= 0|checksum:fa55d7b4e0683734b2e3e61c1968860a60609a92bea72d653adbc1c1a26b8d1d
+0.1.17 rex-random_identifier:>= 0,rex-text:>= 0|checksum:bd61ed25d4171d775d007b047a9866e638386b15ce80b463626db98f65451423
+0.1.18 rex-random_identifier:>= 0,rex-text:>= 0|checksum:04c698baa857284d837daa8012a4b6648c6bd268955866d829c0491018e063b7
+0.1.19 rex-random_identifier:>= 0,rex-text:>= 0|checksum:9382aaa7b62bc0c8cb6a2f7e27c68a5f518f48b36c5a2cbf916c4a644498ebe3
+0.1.20 rex-random_identifier:>= 0,rex-text:>= 0|checksum:a230c45869132cf00a8d584d2aa5327f96aa275dd62d42407025a307f83a9eb2
+0.1.21 rex-random_identifier:>= 0,rex-text:>= 0|checksum:caace1b2b49a3194237f5daea29b6c97d5f835b055f8385af771a82384bfc916
+0.1.22 rex-random_identifier:>= 0,rex-text:>= 0|checksum:9033fa6f7571e1e356fbc1d5140446a246bf121f27d9fe0b6807d389725d0bb8
+0.1.23 rex-random_identifier:>= 0,rex-text:>= 0|checksum:f4ae693035c23af62db882e66cddcb8c7bd6436e3ff4c779667698a851f208b2
+0.1.24 rex-random_identifier:>= 0,rex-text:>= 0|checksum:8624de58bef805cdd4971da61cac72689ee5d9629cc66b90cba9604614024e4e
+0.1.25 rex-random_identifier:>= 0,rex-text:>= 0|checksum:71a966426fdb580ffac981286f5ecbe6efb0a743ad0c91fce47f7d7c34b6b599
+0.1.26 rex-random_identifier:>= 0,rex-text:>= 0|checksum:30e94042007e558bfbfdffd1541f7d147cff34dde40ce4a1ac5f0cc0d22e4431
+0.1.27 rex-random_identifier:>= 0,rex-text:>= 0|checksum:12aced5b967486b44da448915fc9b6b6396172d4b96806608b8465220467306a
+0.1.28 rex-random_identifier:>= 0,rex-text:>= 0|checksum:da308b85b38388b49b9349ce3874c685a0433a0cad69208c62c2abc613f216b3
+0.1.29 rex-random_identifier:>= 0,rex-text:>= 0|checksum:3566e33bf1acaa7e570744bd6144fcfb8cbdc42590866d2365a193138c50a237
+0.1.30 rex-random_identifier:>= 0,rex-text:>= 0|checksum:4b1ace5d5136f196af7f52a4bdd2c4b127f4e8bbb8142ffebc6a9078949bb3af
+0.1.31 rex-random_identifier:>= 0,rex-text:>= 0|checksum:2ef0473dd3a1aa05b8927623a14a93afd18f1328166af71e5f2ec08c82cd2127
+0.1.32 rex-random_identifier:>= 0,rex-text:>= 0|checksum:6e6395f33d1770408c5955ea8fceb9c4467a6652a6a82b28543f4f4186d740c5
+0.1.33 rex-random_identifier:>= 0,rex-text:>= 0|checksum:8788caca180ed2b4c2a2e5d9a5b5b467a89b84cb314fc5fd714c309ff6d69fce
+0.1.34 rex-random_identifier:>= 0,rex-text:>= 0|checksum:edbc9e6fa80c13e4c82f963ebb70ce1b5bf01eb57bcf574a2653a96c918ddeb7
+0.1.35 rex-random_identifier:>= 0,rex-text:>= 0|checksum:2187c986cd3fce1972b22a7183d914e671bf04773422471ac67c0da874b0365d
+0.1.36 rex-random_identifier:>= 0,rex-text:>= 0|checksum:e813281a62a2c376e06f44023edf69d89f9c22e6495424c22462017a5a3f84a1
+0.1.37 rex-random_identifier:>= 0,rex-text:>= 0|checksum:422c12123107c0a1ea1a5a07009b0c6fc730617024b7ac4c56c2bc62aecb3357
+0.1.38 rex-random_identifier:>= 0,rex-text:>= 0|checksum:543868efdf1813ba939b8ebee8925c0c58770e6d0e8692a017bce2f22cefd978
+0.1.39 rex-random_identifier:>= 0,rex-text:>= 0|checksum:7dbf6c52664c011ad549d13fcdfd90cbe7c1d23ff42e33d42c5d98dd15d03fc7
+0.1.40 rex-random_identifier:>= 0,rex-text:>= 0|checksum:ed86e68528d97cfdf29d99e791dcf97bfb72af91d25bd2a710f2a5bc58575e2c
+0.1.41 rex-random_identifier:>= 0,rex-text:>= 0|checksum:679b6ee7bb82e72105a89ea6d26e7c060d3ea62c90168cf5cf768f2390f9425e
+0.1.42 rex-random_identifier:>= 0,rex-text:>= 0|checksum:7c12f9b78607ab0c9eca8b3c5796d4a1d81f743c2f774477276c1a9f0cb94042
+0.1.43 rex-random_identifier:>= 0,rex-text:>= 0|checksum:4c45dbd2b5fa2abf6d974f3404db430f39a44f9fa930cdd120aa22cc584e6416
+0.1.44 rex-random_identifier:>= 0,rex-text:>= 0|checksum:4508fb9df22da89fef65432f5ba277a44858fcf2eb49f4bc84b5981d72af6abd
+0.1.45 rex-random_identifier:>= 0,rex-text:>= 0|checksum:e5eaff8439213e43229f45229145a0ec075054e5947448242cce72865d44d56d
+0.1.46 rex-random_identifier:>= 0,rex-text:>= 0|checksum:2930a8f5626e8b6eb4739fc03ecab09dfd9ecc562f010e44d1a33408fdd92ce4
+0.1.47 rex-random_identifier:>= 0,rex-text:>= 0|checksum:e6e509c8e2c30fdb67b163e5be3669e911c47398ab504025d30c9e68cf35e4ea
+0.1.48 rex-random_identifier:>= 0,rex-text:>= 0|checksum:e38c80489bcc18cf5462db5ed4d010a10eb2f07c6c6ab1da26d3a625f3711b68
+0.1.49 rex-random_identifier:>= 0,rex-text:>= 0|checksum:0aa2ad2d9653795d8e1f0a4a4e2d51608588fb8c7c440665fd746b96dba92f17
+0.1.50 rex-random_identifier:>= 0,rex-text:>= 0|checksum:ce417b37825b8209dfbaa24bff8f01b2de2cc54e9e5c0d35dfd726540f77c4b4
+0.1.51 rex-random_identifier:>= 0,rex-text:>= 0|checksum:7ddb03838ac33b0bb455d0d3781f2ef8516875cba56ee94a44ff3720cad27bfa
+0.1.52 rex-random_identifier:>= 0,rex-text:>= 0|checksum:25b3b6c17fe9f9f506c42c0470b04dfd6fd8130b2be369c625792f0fc8459b24
+0.1.53 rex-random_identifier:>= 0,rex-text:>= 0|checksum:d6eb63d3898cd0481aaba2065e05803295da1eacf66501f3847b00b90a06143a
+0.1.54 rex-random_identifier:>= 0,rex-text:>= 0|checksum:db8ce7a9e658e73948eaa308dba54bd763960db3a8f7fb952a00a7fab3269ffc
+0.1.55 rex-random_identifier:>= 0,rex-text:>= 0|checksum:1b1bf13b652b29138118391249a252b084e9f91b0a967140d9c6f2d25ed68861
+0.1.56 rex-random_identifier:>= 0,rex-text:>= 0|checksum:70e09853908855025296f61c7eab3e2464883757bd6dca84e75a7a51cae10b87
+0.1.57 rex-random_identifier:>= 0,rex-text:>= 0|checksum:09b27c57c813d97fd2c1ef8b61a70798844ab86266cb4119e607dc8de0952d9c
+0.1.58 rex-random_identifier:>= 0,rex-text:>= 0|checksum:5243dca16019b616f54141ec312d9b3e3f711bdc1cdca0ae67cf6a3213fba43a
+0.1.59 rex-random_identifier:>= 0,rex-text:>= 0|checksum:1c023283fba04044e583b5144decf2366991a168dba50485c09176344574a3a5
+0.1.60 rex-random_identifier:>= 0,rex-text:>= 0|checksum:e4ea2c5a57b69c235c7afbbe94c40ce228206fbce53f95a68a183d7259c7763b
+0.1.61 rex-random_identifier:>= 0,rex-text:>= 0|checksum:69d69d8eedbbe0b048a3d0b6af00616dfc2b8ab2fafd2b9ec24271baeee3fec4
+0.1.62 rex-random_identifier:>= 0,rex-text:>= 0|checksum:11c551d09827520652bcf70c6c0810f8d5854188eaffc6f82379401fd05ae9a0
+0.1.63 rex-random_identifier:>= 0,rex-text:>= 0|checksum:5a6e515e02bb0a70fa4dc04639adcf15ffbad036f7e78c0ecb96635a9b3f9cc4
+0.1.64 rex-random_identifier:>= 0,rex-text:>= 0|checksum:90e3a2f31f530d180c1d87c5cc1b7bad0de0523c9e48c24b701ceff30a996100
+0.1.65 rex-random_identifier:>= 0,rex-text:>= 0|checksum:25b26e137e41fd1fbc2cdfb2d84aaeb9a9d8310ba2d3d274377c3f1727054c49
+0.1.66 rex-random_identifier:>= 0,rex-text:>= 0|checksum:cbbd48e24d450150e360fc6c0eaa859b972bf3111cc75db02069b6bfda6d97b1
+0.1.67 rex-random_identifier:>= 0,rex-text:>= 0|checksum:bf803770e84aaccd31dbbc2e926a7be58e985ca7a3c5873800ed3cb53fc90dfb
+0.1.68 rex-random_identifier:>= 0,rex-text:>= 0|checksum:d4c01f86fc53ff21cb81493646113aeae2dc5181d489dc6089b84eb304f71014
+0.1.69 rex-random_identifier:>= 0,rex-text:>= 0|checksum:b418361745bbd5dd1b4f0f03cb881fd118834c718813c5e6f353d216d76d2b47
+0.1.70 rex-random_identifier:>= 0,rex-text:>= 0|checksum:7c7254717d3f10086ce13d7701714d189848c7883e1bf8484721d21fd2e069b0
+0.1.71 rex-random_identifier:>= 0,rex-text:>= 0|checksum:99207d301f51f83755631d2aee5b7f40b99771981e4872b8dc962a7157c3dcdc
+0.1.72 rex-random_identifier:>= 0,rex-text:>= 0|checksum:d5cacb22fa1d9340f66f9d6ffe34589b203e0ef2438f56d29c8ce6d09a03865a,ruby:>= 2.2.0
+0.1.73 rex-random_identifier:>= 0,rex-text:>= 0|checksum:65a0f2bef4286c8f392b5b099b638ec6a34427e6340ec669165286c1e71464df,ruby:>= 2.2.0
+0.1.74 rex-random_identifier:>= 0,rex-text:>= 0|checksum:fcbc849c5fa20e58df6e7aa1f3d4016ea34a9fa6934a080f231e9f820abe7667,ruby:>= 2.2.0
+0.1.75 rex-random_identifier:>= 0,rex-text:>= 0|checksum:392b90dc107dc92c82d8748b1bcf0a1239b2b962c7d369ae890702271f401df8,ruby:>= 2.2.0
+0.1.76 rex-random_identifier:>= 0,rex-text:>= 0|checksum:b5cb92739290ac3a042dfb835c766b3b581612359aea8ccf301c4140e02d8e2b,ruby:>= 2.2.0
+0.1.77 rex-random_identifier:>= 0,rex-text:>= 0|checksum:3839a111c973227db54c42fcfde69faa2af141f4ee8d971011951a719a1883f9,ruby:>= 2.2.0
+0.1.78 rex-random_identifier:>= 0,rex-text:>= 0|checksum:d3f921c15b7cfde8e8fd92053c2fbc7d14069c8a8fa8084c7d2c79890366c5c8,ruby:>= 2.2.0
+0.1.79 rex-random_identifier:>= 0,rex-text:>= 0|checksum:7b91bd4cda15ce0a9ce6a90af83eb2d1e033b78a36e43eb2dd4cade974a951fc,ruby:>= 2.2.0

